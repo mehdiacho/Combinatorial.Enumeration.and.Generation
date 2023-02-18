@@ -3,7 +3,7 @@ Designed and implemented a program for the efficient generation and enumeration 
 
 The Combinatorial Enumeration and Generation project is a software solution designed to handle the computational demands of generating and enumerating combinatorial structures such as permutations, combinations, and subsets. The project was created to address the challenges that arise when trying to handle large combinatorial structures, which can become very complex and time-consuming to generate and enumerate.
 
-The software solution was developed using a combination of programming languages such as Java, C++, and Python. The project makes use of mathematical algorithms and data structures to generate and enumerate the structures efficiently and in a scalable manner.
+The software solution was developed using C#. The project makes use of mathematical algorithms and data structures to generate and enumerate the structures efficiently and in a scalable manner.
 
 The project also includes a user-friendly interface that makes it easy for users to input the desired parameters and visualize the generated structures. The software is capable of generating structures with a large number of elements and can handle structures with different constraints and conditions.
 
